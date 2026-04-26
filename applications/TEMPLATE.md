@@ -1,21 +1,29 @@
-# Application: [Your Name]
-
-> **Instructions:** Copy this file to `applications/your-name.md` (use kebab-case — e.g. `priya-sharma.md`).
-> Fill in each of the 5 sections below. Delete these instructions before you open your PR.
+# Application: Maitreyee Majumdar
 
 ---
 
 ## 1. Name
 
-_Your full name._
+Maitreyee Majumdar
 
 ## 2. Portfolio
 
-_Link to your portfolio, site, Dribbble, Behance, Notion — anywhere we can see your work._
+Behance Portfolio Link: 
+🔗 [._Maitreyee's Portfolio._](https://www.behance.net/gallery/244973093/Maitreyees-UIUX-Portfolio)
+
+CV/Resume link for complete background:
+🔗 [._Maitreyee's Resume._](https://acrobat.adobe.com/id/urn:aaid:sc:AP:b9dddf91-24f3-4a91-8c5a-05aa1f3c863c)
+
+Selected Projects direct links:
+🔗 [._Pravaah (SIH 2024 Winner)._](https://www.behance.net/gallery/244969959/Pravaah-indoor-navigation-for-railway-platforms)
+🔗 [._Goodreads Concept Redesign._](https://www.behance.net/gallery/244971243/Goodreads-Concept-Redesign)
+
+Independent ongoing research paper (one-pager):
+🔗 [._HCI Research — AI & Rural Indian Users._](https://blackcat-energy.github.io/HCI-onepager/)
 
 ## 3. LinkedIn
 
-_Link to your LinkedIn profile._
+[_Maitreyee's Linkedin Profile._](https://www.linkedin.com/in/maitreyee-majumdar-461525239/)
 
 ## 4. A project you've shipped recently
 
@@ -23,8 +31,4 @@ _Link to something you've shipped in the last 6–12 months. Add 2–4 sentences
 
 ## 5. Why you want to join Amber
 
-_3–5 sentences. Please don't write "I'm passionate about design." Tell us what specifically pulls you to Amber — the product, the students we serve, the team, the problem space. Be honest._
 
----
-
-_By opening this PR you confirm the work above is yours and that you've read [the role](https://github.com/sudo-anmol/design-internship)._
