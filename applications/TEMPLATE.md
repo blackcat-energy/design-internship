@@ -27,7 +27,19 @@ Independent ongoing research paper (one-pager):
 
 ## 4. A project you've shipped recently
 
-_Link to something you've shipped in the last 6–12 months. Add 2–4 sentences: what it is, what you did on it, and what you'd change now._
+_The problem statement: 
+Goodreads has 150M+ users but people actively avoid it, I wanted to understand why.
+
+What I found:
+* Non-readers aren't uninterested in books — Goodreads just makes starting feel overwhelming
+* People discover books on Instagram and Pinterest, and only land on Goodreads to read reviews, discovery is completely broken
+* Readers are used to current social media habits, i.e., scrolling, taste based feed section. Genres are outdates, vibes is the new wave.
+
+What I did: 
+Redesigned around that core insight. Introduced emotion-driven Book Bundles curated by AI sentiment extraction, a social Reader Moments layer, and quote cards that nudge curiosity the way Netflix trailers do.
+
+What I'd change: 
+The "I'm Confused" mode — a 3-question flow for lost readers. In hindsight, mood is not a clean input. Real reading decisions are messier than a form can capture. I'd rebuild it as a conversation, not a questionnaire.._
 
 ## 5. Why you want to join Amber
 
